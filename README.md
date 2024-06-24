@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 
-Open [Next Ed Prep](lms-platform-brown.vercel.app) with your browser to see the result.
+Open [Next Ed Prep](https://lms-platform-brown.vercel.app) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
