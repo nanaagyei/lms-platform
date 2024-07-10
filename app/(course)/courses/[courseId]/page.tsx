@@ -27,11 +27,6 @@ const CourseId = async ({
     }
 
     return redirect(`/courses/${course.id}/chapters/${course.chapters[0].id}`);
-    return ( 
-        <div>
-            Watch this course
-        </div>
-     );
 }
  
 export default CourseId;
